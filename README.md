@@ -5,9 +5,9 @@
 
 **Why?** I want to learn Japanese in context. Specifically I want to rewatch season 1 of blue lock but in the original language. To improve comprehension, I review the generated flash cards before watching the episode. 
 
-**demo video.**
+**demo video.** 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jk7q8rgfjiI?si=dNcoR6e2QGSzFZXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Available on YouTube at this link](https://www.youtube.com/watch?v=Jk7q8rgfjiI)
 
 ---
 
